@@ -1,1 +1,3 @@
 # TinyMantis
+
+To learn about frameworks you must implement one...
